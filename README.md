@@ -38,8 +38,6 @@ Experienced HTML/CSS coder. I'm interested in javascript development, I study Re
 
 #### My contacts:
 [linkedin] : https://www.linkedin.com/in/bohdan-pantiushenko/
-<br>
-[facebook] : https://www.facebook.com/profile.php?id=100003193147622
 
 <!--
 **bodich84/bodich84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
