@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Bohdan!
-### I a'm Markup and Front-end/react developer
+### I a'm Front-end/ReactJS developer
 
-Experienced HTML/CSS coder. I'm interested in javascript development, I study React, the purpose to become React developer. I got IT skills with self-education, website development has grown from hobby to the profession and now it is my main occupation.
+I'm a frontend developer. I fancy frontend development and working with React JS. I started my career in markup and I still like it too.
 
 #### Professional skills
 - HTML/CSS - Upper-Intermediate
