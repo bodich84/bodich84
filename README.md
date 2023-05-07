@@ -34,7 +34,7 @@ I'm a frontend developer. I fancy frontend development and working with React JS
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](#)
-[![Salesforce Commerce Cloud](https://img.shields.io/badge/Salesforce%20Commerce%20Cloud-%2331A8FF.svg?style=for-the-badge)](#)
+[![SFCC](https://img.shields.io/badge/SFCC-%2331A8FF.svg?style=for-the-badge)](#)
 [![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange.svg?style=for-the-badge)](#)
 [![Contentful](https://img.shields.io/badge/Contentful-green.svg?style=for-the-badge)](#)
 [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](#)
